@@ -16,12 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
 ### 🎯 Currently
 - 🔭 Working on: **Nexus** - A real-time collaborative code editor
 - 🌱 Learning: **Rust** and **WebAssembly** for high-performance web applications
